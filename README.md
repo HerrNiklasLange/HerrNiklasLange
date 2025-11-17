@@ -1,16 +1,16 @@
-# Hi, I'm Niklas Lange 👋
+# Niklas Lange
 
 I'm a **final-year Computing Science student** with international study experience, hands-on industry internships, and a passion for **data science, machine learning, and operational analysis**. I love turning complex data into actionable insights and building tools that make a real-world impact.
 
 ---
 
-## 🔭 Project Highlights
+## Resume Highlights
 - [Hierarchical Reinforcement Learning Fraud Detection (HRLFD)](https://niklas-lange.netlify.app/projects/hierarchicalfrauddetector/) – A Kaggle-based project achieving **97% accuracy** in detecting fraudulent transactions.  
 - [Web Scraping & Visualization Project](https://niklas-lange.netlify.app/projects/phcode/) – Automated R/Python scripts collecting, cleaning, and visualizing data on a live website.
 
 ---
 
-## 🧰 Skills
+## Skills
 
 **Programming & Scripting:** Python, Java, C, R, SQL, Git  
 **Data Science & ML:** scikit-learn, Pandas, NumPy, Hierarchical Reinforcement Learning  
@@ -22,7 +22,7 @@ I'm a **final-year Computing Science student** with international study experien
 
 ---
 
-## 💼 Work Experience
+## Work Experience
 
 **Markerstudy Insurance – Junior Operations Analyst (Intern)** *(May–Aug 2024)*  
 - Cleaned and analyzed large-scale customer datasets for post-merger integration.  
@@ -38,7 +38,7 @@ I'm a **final-year Computing Science student** with international study experien
 
 ---
 
-## 🎓 Education
+## Education
 
 **University of Strathclyde** – BSc Computing Science *(2023–2026, Expected 1:1)*  
 - Dean's List 2023/24  
@@ -50,12 +50,12 @@ I'm a **final-year Computing Science student** with international study experien
 
 ---
 
-## 📫 Connect with Me
+## Connect with Me
 
 [LinkedIn](https://www.linkedin.com/in/niklas-lange-a42998297/) • [Portfolio](https://niklas-lange.netlify.app/) • [Email](mailto:niklas62.35@gmail.com)  
 [Datacamp](https://www.datacamp.com/portfolio/Niklas-Skye-Lange)  
 
 ---
 
-🌱 I'm currently exploring **advanced ML pipelines**, **operational analysis**, and more **real-world data science projects**.  
+I'm currently exploring **advanced ML pipelines**, **operational analysis**, and more **real-world data science projects**.  
 
