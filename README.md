@@ -33,7 +33,7 @@ I'm a **final-year Computing Science student** with international study experien
 - Compared performance of GAMs vs GBMs in pricing and premium calculation.  
 - Produced presentations for team review and gained exposure to industrial ML applications.  
 
-**Camping Platz Erfurt Am See – Bar Waiter** *(Summers 2019, 2021, 2022)*  
+**Camping Platz Erfurt Am See – Bar Waiter** *(Summers 2019-2022)*  
 - Managed high-volume customer service efficiently while collaborating with colleagues.  
 
 ---
